@@ -36,10 +36,10 @@
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 306,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "size": 272,
+            "modifiedTime": 1499867224000,
+            "changeTime": 1499867224000,
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
         }
     ],
     [
@@ -47,13 +47,14 @@
         {
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1499867565000,
-            "changeTime": 1499867565000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 68,
+            "modifiedTime": 1499857619000,
+            "changeTime": 1499857619000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -61,13 +62,14 @@
         {
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1499859173000,
-            "changeTime": 1499859173000,
-            "contentHash": "4e7c1dce819cac4f989b59112851b4cd18059c1a",
+            "size": 238,
+            "modifiedTime": 1499857740000,
+            "changeTime": 1499857740000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -814,222 +816,66 @@
     [
         "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 17509,
+            "modifiedTime": 1499859125000,
+            "changeTime": 1499859125000,
+            "contentHash": "c60729e9f50a9c6cbf8d322b683194b229eeef16",
             "isMetadataFile": true,
-            "size": 17651,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "80ab6b981bea190824497ae8d039f67609379322"
+            "state": "u"
         }
     ],
     [
         "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1499859125000,
+            "changeTime": 1499859125000,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
             "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "state": "u"
         }
     ],
     [
         "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1499867224000,
             "changeTime": 1499867224000,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 319,
             "modifiedTime": 1499867493000,
             "changeTime": 1499867493000,
-            "contentHash": "3d3988c2e95f617a7289cf2b2ac46745b281f309",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "3d3988c2e95f617a7289cf2b2ac46745b281f309"
         }
     ],
     [
         "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1499867224000,
             "changeTime": 1499867224000,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1499867565000,
-            "changeTime": 1499867565000,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 169,
-            "modifiedTime": 1499867662000,
-            "changeTime": 1499867662000,
-            "contentHash": "6c12bc2162471a5e734921e6fc4b05f061ed190e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1499867565000,
-            "changeTime": 1499867565000,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 101,
-            "modifiedTime": 1499867701000,
-            "changeTime": 1499867701000,
-            "contentHash": "cf30e4b1038110c955aa94d44b392309749e6255",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1499867565000,
-            "changeTime": 1499867565000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1499867565000,
-            "changeTime": 1499867565000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1499867565000,
-            "changeTime": 1499867565000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 266,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5766,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "3cf8e003b7c636073b82c6f8500a727810cae9c0"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5428,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "33b026920b49a1aa755f61e2f49eafb5d830b1fd"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5428,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "33b026920b49a1aa755f61e2f49eafb5d830b1fd"
-        }
-    ],
-    [
-        "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/Users/simon.cook/Google Drive/Development/SalesforceDX/trailhead/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1499867847000,
-            "changeTime": 1499867847000,
-            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
